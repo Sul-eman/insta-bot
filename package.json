@@ -1,0 +1,22 @@
+{
+  "name": "insta-bot",
+  "version": "1.0.0",
+  "description": "Instagram chat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sul-eman/insta-bot.git"
+  },
+  "author": "Suleman Saleem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sul-eman/insta-bot/issues"
+  },
+  "homepage": "https://github.com/Sul-eman/insta-bot#readme",
+  "dependencies": {
+    "@androz2091/insta.js": "^1.6.1"
+  }
+}
