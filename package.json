@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Sul-eman/insta-bot#readme",
   "dependencies": {
-    "@androz2091/insta.js": "^1.6.1"
+    "@androz2091/insta.js": "^1.6.1",
+    "dotenv": "^8.2.0"
   }
 }

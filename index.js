@@ -1,4 +1,7 @@
 const Insta = require("@androz2091/insta.js");
+const dotenv = require("dotenv");
+
+dotenv.config();
 
 const client = new Insta.Client();
 
@@ -16,4 +19,4 @@ client.on("messageCreate", (message) => {
 	}
 });
 
-client.login("username", "password");
+client.login("simpy4serotonin", process.env.PASSWORD);
